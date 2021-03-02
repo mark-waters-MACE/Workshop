@@ -1,0 +1,14 @@
+// This is dummy file created to illustrate how we will all edit the same file through git
+// It is simply a list of fictional users that we will build together idependant from each other
+// The first user is John Smith
+
+username =  john_smith
+user_id = 1
+email = john_smith@m-ace.mee.com
+
+// I've now added mine
+username = mark.waters
+user_id = 2
+email = mark.waters@m-ace.mee.com
+
+// Add your own details after here:
