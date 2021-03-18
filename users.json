@@ -11,4 +11,10 @@
         "user_id": 2,
         "email": "john.smith@m-ace.mee.com"
     }
+    {
+        "user_name": "jim_smith",
+        "name": "jim Smith",
+        "user_id": 3,
+        "email": "jim.smith@m-ace.mee.com"
+    }
 ]
