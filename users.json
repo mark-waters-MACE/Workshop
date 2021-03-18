@@ -29,4 +29,10 @@
         "user_id": 4,
         "email": "jim.smith@m-ace.mee.com"
     }
+    {
+        "user_name": "nick_reith",
+        "name": "Nick Reith",
+        "user_id": 3,
+        "email": "Nicholas.Reith@m-ace.mee.com"
+    }
 ]
