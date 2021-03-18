@@ -4,7 +4,7 @@
         "name": "Mark Waters",
         "user_id": 1,
         "email": "mark.waters@m-ace.mee.com"
-    },
+    }
     {
         "user_name": "john_smith",
         "name": "John Smith",
@@ -16,5 +16,17 @@
         "name": "Kenny Skivington",
         "user_id": 3,
         "email": "kenny.skivington@m-ace.mee.com"
+    }
+    {
+        "user_name": "william McLean",
+        "name": "William McLean",
+        "user_id": 3,
+        "email": "william.mclean@m-ace.mee.com"
+    }
+    {
+        "user_name": "jim_smith",
+        "name": "jim Smith",
+        "user_id": 4,
+        "email": "jim.smith@m-ace.mee.com"
     }
 ]
