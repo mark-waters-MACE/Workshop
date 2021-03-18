@@ -11,4 +11,10 @@
         "user_id": 2,
         "email": "john.smith@m-ace.mee.com"
     }
+    {
+        "user_name": "nick_reith",
+        "name": "Nick Reith",
+        "user_id": 3,
+        "email": "Nicholas.Reith@m-ace.mee.com"
+    }
 ]
