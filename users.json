@@ -10,5 +10,11 @@
         "name": "John Smith",
         "user_id": 2,
         "email": "john.smith@m-ace.mee.com"
+
+        "user_name": "william McLean",
+        "name": "William McLean",
+        "user_id": 3,
+        "email": "william.mclean@m-ace.mee.com"
+
     }
 ]
